@@ -38,4 +38,4 @@ def hangman(word):
     if  win != True:
         print("You lose... the word is {}.".format(word))
 
-hangman("apple")
+hangman("apples")
