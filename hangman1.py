@@ -1,4 +1,5 @@
 # edit
+# edit2
 def hangman(word):
     wrong = 0
 
